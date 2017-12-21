@@ -13,7 +13,7 @@ repositories {
 ### 库说明
 #### andrutil
 * 说明  
-这是一个工具类库
+这是一个工具类库。[仓库地址及说明](https://github.com/kigkrazy/andrutil)
 
 * 引用方法  
 ```
