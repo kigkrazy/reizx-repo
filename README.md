@@ -16,5 +16,5 @@ repositories {
 
 引用方法  
 ```
-	compile 'com.reizx:andrutil:1.3'
+	compile 'com.reizx:andrutil:1.6'
 ```
