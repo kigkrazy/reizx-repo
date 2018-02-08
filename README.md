@@ -18,3 +18,11 @@ repositories {
 ```
 	compile 'com.reizx:andrutil:1.6'
 ```
+
+#### [luaj](https://github.com/kigkrazy/luaj-android)
+JAVA平台的lua解析库，根据luaj项目修改，修改了部分android的BUG。
+
+引用方法  
+```
+	compile 'com.reizx:luaj-jse:3.0.1'
+```
