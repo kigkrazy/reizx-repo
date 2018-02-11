@@ -24,5 +24,5 @@ JAVA平台的lua解析库，根据luaj项目修改，修改了部分android的BU
 
 引用方法  
 ```
-	compile 'com.reizx:luaj-jse:3.0.1'
+	compile 'com.reizx:luaj-jse:3.0.11'
 ```
