@@ -16,7 +16,7 @@ repositories {
 
 引用方法  
 ```
-	compile 'com.reizx:andrutil:1.7.0'
+	compile 'com.reizx:andrutil:1.7.1'
 ```
 
 #### [luaj](https://github.com/kigkrazy/luaj-android)
