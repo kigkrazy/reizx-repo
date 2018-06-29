@@ -16,7 +16,7 @@ repositories {
 
 引用方法  
 ```
-	compile 'com.reizx:andrutil:1.7.3'
+	compile 'com.reizx:andrutil:1.7.5'
 ```
 
 #### [luaj](https://github.com/kigkrazy/luaj-android)
@@ -28,6 +28,8 @@ JAVA平台的lua解析库，根据luaj项目修改，修改了部分android的BU
 ```
 
 ### 更新日志
+#### 2018年6月29日11:15:07
+* 发布andrutil-1.7.5
 
 #### 2018年2月12日09:10:19
 * 更新andrutil的依赖库版本
